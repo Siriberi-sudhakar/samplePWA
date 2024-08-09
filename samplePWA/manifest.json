@@ -1,6 +1,6 @@
 {
   "name": "Sudhakar's Coffee PWA",
-  "short_name": "DevCoffee",
+  "short_name": "Sudhakar's Coffee PWA",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#fdfdfd",
